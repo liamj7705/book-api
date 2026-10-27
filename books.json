@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "title": "Liam's Book",
+    "author": "Liam"
+  },
+  {
+    "id": 2,
+    "title": "Riley's Book",
+    "author": "Riley"
+  },
+  {
+    "id": 3,
+    "title": "Squish's Book",
+    "author": "Squish"
+  },
+  {
+    "id": 4,
+    "title": "Harry Potter",
+    "author": "J.K. Rowling"
+  },
+  {
+    "id": 5,
+    "title": "I love squish",
+    "author": "Sill"
+  },
+  {
+    "id": 6,
+    "title": "I love sill",
+    "author": "Squish"
+  }
+]
